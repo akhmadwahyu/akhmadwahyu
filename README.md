@@ -21,9 +21,13 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/akhmadwahyu/akhmadwahyu/output/snake.svg" alt="Snake animation" />
+<hr>
+<table border = "0.3">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/akhmadwahyu/akhmadwahyu/output/snake.svg" alt="Snake animation" />
+    </td>
+  </tr>
+</table>
 
 ###
