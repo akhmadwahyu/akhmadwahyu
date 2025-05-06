@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhmad Wahyu</h1>
 
-![](https://nirzak-streak-stats.vercel.app/?user=akhmadwahyu&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=akhmadwahyu&theme=dark&hide_border=true)
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhmadwahyu" alt="akhmadwahyu" /></a> </p> -->
 
 <h3 align="left">Languages and Tools:</h3>
