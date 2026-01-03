@@ -22,3 +22,4 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/akhmadwahyu/akhmadwahyu/output/snake.svg" alt="Snake animation" />
